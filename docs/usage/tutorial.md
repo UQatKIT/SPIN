@@ -43,11 +43,11 @@ In total, the goal of this tutorial is to showcase Bayesian inference of $b(x)$,
 !!! info "Visualization code not shown"
     To make this tutorial more concise, we limit code exposition to the actual functionality of
     SPIN. The code for visualization can be found in the corresponding example notebook
-    [`1D_drift_mfpt.ipynb`](https://github.com/UQatKIT/SPIN/tree/main/examples/1D_drift_mfpt.ipynb).
+    [`1D_drift_mfpt.ipynb`](https://github.com/maximilian-kruse/SPIN/tree/main/examples/1D_drift_mfpt.ipynb).
 
 !!! info "Other use-cases available"
     Other inference use-cases, which are straightforward extensions of the one presented here, can be found
-    in the [`examples`](https://github.com/UQatKIT/SPIN/tree/main/examples/) directory of the SPIN
+    in the [`examples`](https://github.com/maximilian-kruse/SPIN/tree/main/examples/) directory of the SPIN
     repository.
 
 ## Imports

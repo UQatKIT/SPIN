@@ -6,7 +6,7 @@ docs_dir: docs/
 site_name: SPIN
 site_author: Maximilian Kruse
 site_description: Stochastic Process INference
-repo_url: https://github.com/UQatKIT/SPIN
+repo_url: https://github.com/maximilian-kruse/SPIN
 repo_name: SPIN
 
 # -- Material theme configuration ------------------------------------------------------------------
